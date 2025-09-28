@@ -17,3 +17,5 @@ these designs help me understand the different components, the process, and basi
 
 But for me, whatever the result was for this, I know that I have learned, I have worked hard, and I am proud of my result...so here it is
 <img width="1302" height="994" alt="image" src="https://github.com/user-attachments/assets/8f4d5006-c5e1-40e7-a41e-fa3f90e146a7" />
+
+<img width="1273" height="925" alt="image" src="https://github.com/user-attachments/assets/baaa9162-f227-4ec7-b97e-d7350334cb01" />
