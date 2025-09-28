@@ -16,3 +16,4 @@ https://github.com/crteensy/ESC_4in1_G071_1S3_SIZ200
 these designs help me understand the different components, the process, and basically guided me on this process. My greatest challenge with this project wasn't the wiring, the PCB design or anything else, but it was simply learning what made a flight controller and ESC for a drone, what all did it need, what features, how does it function, WHY does it function, as this isn't something being done for the first time, countless companies have made so many versions that are way better (because they were made by someone who actually knows how this stuff works). 
 
 But for me, whatever the result was for this, I know that I have learned, I have worked hard, and I am proud of my result...so here it is
+<img width="1302" height="994" alt="image" src="https://github.com/user-attachments/assets/8f4d5006-c5e1-40e7-a41e-fa3f90e146a7" />
